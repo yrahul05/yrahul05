@@ -1,43 +1,68 @@
-# 👋 Hello, I'm Rahul Yadav!
+<div align="center">
 
-Welcome to my GitHub! I'm a **DevOps Engineer**, **Freelancer**, and **Sales & Marketing Specialist** passionate about building robust, scalable, and automated infrastructures that drive business success. My focus lies in bridging the gap between development and operations, enabling smooth deployments, optimizing performance, and delivering innovative solutions.
+# 🚀 Rahul Yadav - DevOps Engineer & Freelance Consultant
+*Crafting Seamless Cloud Solutions & Accelerating Deployments*
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
+[![Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yrahul_5)
+
+</div>
 
 ---
 
-### 💼 What I Do
-- **DevOps Engineering**: Skilled in automating CI/CD pipelines, optimizing cloud infrastructure, and streamlining deployment processes.
-- **Sales & Marketing**: Blending my technical knowledge with a knack for communication, I help organizations present their solutions and attract new clients.
-- **Freelancing**: Providing personalized consulting services in DevOps, cloud computing, and automation.
+## 👋 About Me
+
+Hello! I'm **Rahul Yadav**, a DevOps Engineer with a passion for optimizing infrastructures, automating CI/CD pipelines, and driving innovations that boost productivity and operational efficiency. I blend technical expertise with a strategic mindset, also leveraging skills in **Sales & Marketing** to bring tech solutions closer to people and businesses.
+
+- 🌍 Based in India, serving clients worldwide
+- 💼 Freelance consultant for **DevOps** and **Cloud Solutions**
+- 🎯 Aiming to build scalable, secure, and high-performing cloud infrastructures
 
 ---
 
-### 🔧 Languages and Tools I Use
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <!-- Add additional tools as necessary -->
+## 💻 Tech Stack & Tools
+
+### 🛠 DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧰 Other Tools & Languages
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=radical" width="48%" alt="Rahul's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrahul05&theme=radical" width="48%" alt="Rahul's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrahul05&show_icons=true&theme=radical&layout=compact" width="48%" alt="Rahul's Top Languages" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yrahul05&show_icons=true&locale=en&layout=compact)
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yrahul05&)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yrahul05&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## 🎯 Top Contributed Repositories
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=yrahul05&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-### 📞 Connect with Me
-<a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulyadav77" height="30" width="40" /></a>
-<a href="https://instagram.com/yrahul_5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yrahul_5" height="30" width="40" /></a>
+## 📬 Connect with Me
 
-Looking forward to connecting with like-minded professionals and tech enthusiasts! 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/yrahul_5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
+---
+
+🌐 **Let’s build something amazing together!**
