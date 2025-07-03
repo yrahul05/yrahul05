@@ -17,7 +17,6 @@ Hello! I'm **Rahul Yadav**, a **DevOps Engineer** and **Chief Operating Officer 
 
 From architecting CI/CD pipelines to cloud migrations and infrastructure as code, I help companies ship faster, safer, and smarter.
 
-- 🏢 COO @ OpsStation Technologies Pvt. Ltd.  
 - ✅ AWS Certified Cloud Practitioner  
 - 💼 Freelance Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
 - ✍️ DevOps Blogger on [Medium](https://medium.com/@therahulyadav)
