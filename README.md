@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Rahul Yadav — DevOps Engineer | COO @ OpsStation  
-*Architecting Scalable Cloud Solutions | Automating Everything*
+# 👨‍💻 Rahul Yadav — DevOps Engineer & COO @ OpsStation  
+*Driving Infrastructure Automation | Delivering Scalable DevOps Solutions*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
-[![Medium](https://img.shields.io/badge/-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
 [![Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
 
 </div>
@@ -13,15 +13,13 @@
 
 ## 👋 About Me
 
-Hi! I'm **Rahul Yadav**, a **DevOps Engineer** and **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building scalable, secure, and automated infrastructure using modern DevOps practices and cloud-native solutions.
+Hi! I'm **Rahul Yadav**, a seasoned **DevOps Engineer** and the **Chief Operating Officer** at *OpsStation Technologies Private Limited*. I specialize in creating end-to-end DevOps solutions—from infrastructure automation to secure cloud deployments, with a strong emphasis on high availability and system resilience.
 
-With a strong focus on reliability, performance, and efficiency, I help businesses streamline their software delivery lifecycle and infrastructure operations.
+My work focuses on transforming manual development and deployment lifecycles into automated, scalable, and version-controlled pipelines that accelerate business value.
 
-- 🌐 Based in India — Working with global teams  
-- 🏢 **COO @ OpsStation Technologies Pvt. Ltd.**  
-- 💻 Freelancer & Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
 - ✅ **AWS Certified Cloud Practitioner**  
-- ✍️ Technical Blogger on [Medium](https://medium.com/@therahulyadav)
+- 💻 Freelance DevOps Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
+- ✍️ [Technical Writer & Educator on Medium](https://medium.com/@therahulyadav)
 
 ---
 
@@ -40,7 +38,7 @@ With a strong focus on reliability, performance, and efficiency, I help business
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -67,14 +65,9 @@ With a strong focus on reliability, performance, and efficiency, I help business
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrahul05&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=yrahul05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
-</div>
-
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -84,7 +77,7 @@ With a strong focus on reliability, performance, and efficiency, I help business
 
 ---
 
-🚀 _“Automation isn’t optional anymore—it's the standard. Let’s build resilient systems together.”_  
-🌟 **Open to freelance, consulting & strategic DevOps opportunities**
+💬 _“Great DevOps is invisible — systems self-heal, deploy reliably, and scale without drama.”_  
+📌 **Open for freelance, consulting & DevOps engineering leadership roles**
 
 ---
