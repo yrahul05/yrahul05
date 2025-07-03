@@ -11,16 +11,6 @@
 
 ---
 
-## 🔤 Start Here: A B C of What I Do
-
-- **A**utomation of CI/CD pipelines  
-- **B**uilding scalable, secure, cloud-native systems  
-- **C**ontainerization using Docker, Kubernetes, and IaC tools  
-- **D**riving DevOps transformation and cloud strategy  
-- **E**xecuting production-grade infrastructure across AWS, Azure, GCP  
-
----
-
 ## 👋 About Me
 
 Hello! I'm **Rahul Yadav**, a **DevOps Engineer** and **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building scalable, secure, and automated infrastructure using modern DevOps practices and cloud-native tools.
@@ -69,14 +59,11 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrahul05&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yrahul05/yrahul05/main/assets/contributor-stats.png" width="400" alt="Contributor Stats" />
 </div>
 
 ---
@@ -91,7 +78,7 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
 
 ---
 
-💬 _“Great DevOps is invisible — systems self-heal, deploy reliably, and scale without drama.”_  
-📌 **Open to freelance, consulting & DevOps transformation roles**
+💡 _“Automation isn’t optional anymore — it’s essential. Let’s build systems that scale and heal themselves.”_  
+📌 **Open to freelance, consulting & strategic DevOps engagements**
 
 ---
