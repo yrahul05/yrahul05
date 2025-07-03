@@ -55,11 +55,24 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Insights: Impact Beyond Commits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrahul05&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Rahul's Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" alt="Rahul's Summary Cards" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yrahul05/yrahul05/main/assets/contributor-stats.png" width="400" alt="Contributor Stats" />
+</div>
+
+<p align="center">
+  <b>💡 Clean code, clear pipelines, continuous delivery — backed by real contributions.</b>
+</p>
 
 ---
 
