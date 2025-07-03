@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Rahul Yadav - DevOps Engineer & Cloud Solutions Consultant
-*Creating Scalable Cloud Solutions & Seamless Deployments*
+# 👨‍💻 Rahul Yadav — DevOps Engineer | COO @ OpsStation  
+*Designing Scalable Cloud Architectures & Automating Success*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
-[![Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yrahul_5)
+[![Medium](https://img.shields.io/badge/-Read%20Articles%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
+[![Hire Me on Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
 
 </div>
 
@@ -12,18 +13,22 @@
 
 ## 👋 About Me
 
-Hello! I'm **Rahul Yadav**, a DevOps Engineer passionate about optimizing infrastructures, automating CI/CD pipelines, and driving innovations to enhance productivity and operational efficiency. I bring together technical expertise with strategic insights, also leveraging skills in **Sales & Marketing** to connect tech solutions with real-world business impact.
+Hi, I'm **Rahul Yadav**, a DevOps Engineer and the **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building reliable, scalable, and secure DevOps pipelines that empower teams to ship faster with confidence.
+
+I blend deep cloud engineering knowledge with leadership to deliver high-impact infrastructure solutions for startups, enterprises, and global clients.
 
 🌍 **Based in India, serving clients globally**  
-💼 **Freelance Consultant for DevOps and Cloud Solutions**  
-🎯 **Focused on building scalable, secure, and high-performing cloud infrastructures**
+🏢 **COO at OpsStation Technologies Pvt. Ltd.**  
+💼 **Freelance Consultant on Upwork**  
+✅ **AWS Certified Cloud Practitioner**  
+🎯 **Focused on cloud automation, CI/CD, and infrastructure as code**
 
 ---
 
-## 🛠 DevOps & Cloud Expertise
+## ☁️ DevOps & Cloud Expertise
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -37,7 +42,7 @@ Hello! I'm **Rahul Yadav**, a DevOps Engineer passionate about optimizing infras
 
 ---
 
-## 🧰 Other Tools & Languages
+## 🧰 Tools, Languages & Monitoring
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -53,34 +58,35 @@ Hello! I'm **Rahul Yadav**, a DevOps Engineer passionate about optimizing infras
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Rahul's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrahul05&theme=tokyonight&hide_border=true" width="49%" alt="Rahul's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrahul05&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" alt="Rahul's Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrahul05&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Rahul's Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=yrahul05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Rahul's Top Contributed Repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrahul05&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=yrahul05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/yrahul_5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@therahulyadav" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
 </p>
 
 ---
 
-🌐 **Let’s build something amazing together!**
+🚀 **Let’s collaborate to architect, automate, and scale cloud success.**  
+🌟 _Open to consulting, freelance, and strategic DevOps leadership opportunities_
 
 ---
-
