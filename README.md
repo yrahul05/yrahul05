@@ -1,4 +1,4 @@
--<div align="center">
+<div align="center">
 
 # 👨‍💻 Rahul Yadav - DevOps Engineer & Cloud Solutions Consultant  
 *Driving Infrastructure Automation | Delivering Scalable DevOps Solutions*
@@ -8,6 +8,16 @@
 [![Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
 
 </div>
+
+---
+
+## 🔤 Start Here: A B C of What I Do
+
+- **A**utomation of CI/CD pipelines  
+- **B**uilding scalable, secure, cloud-native systems  
+- **C**ontainerization using Docker, Kubernetes, and IaC tools  
+- **D**riving DevOps transformation and cloud strategy  
+- **E**xecuting production-grade infrastructure across AWS, Azure, GCP  
 
 ---
 
@@ -61,6 +71,14 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
   <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yrahul05/yrahul05/main/assets/contributor-stats.png" width="400" alt="Contributor Stats" />
+</div>
+
 ---
 
 ## 📬 Let’s Connect
@@ -73,7 +91,7 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
 
 ---
 
-💡 _“Automation isn’t optional anymore — it’s essential. Let’s build systems that scale and heal themselves.”_  
-📌 **Open to freelance, consulting & strategic DevOps engagements**
+💬 _“Great DevOps is invisible — systems self-heal, deploy reliably, and scale without drama.”_  
+📌 **Open to freelance, consulting & DevOps transformation roles**
 
 ---
