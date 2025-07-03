@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Rahul Yadav — DevOps Engineer & COO @ OpsStation  
+# 👨‍💻 Rahul Yadav - DevOps Engineer & Cloud Solutions Consultant  
 *Driving Infrastructure Automation | Delivering Scalable DevOps Solutions*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
+[![Medium](https://img.shields.io/badge/-Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
 [![Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
 
 </div>
@@ -13,13 +13,14 @@
 
 ## 👋 About Me
 
-Hi! I'm **Rahul Yadav**, a seasoned **DevOps Engineer** and the **Chief Operating Officer** at *OpsStation Technologies Private Limited*. I specialize in creating end-to-end DevOps solutions—from infrastructure automation to secure cloud deployments, with a strong emphasis on high availability and system resilience.
+Hello! I'm **Rahul Yadav**, a **DevOps Engineer** and **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building scalable, secure, and automated infrastructure using modern DevOps practices and cloud-native tools.
 
-My work focuses on transforming manual development and deployment lifecycles into automated, scalable, and version-controlled pipelines that accelerate business value.
+From architecting CI/CD pipelines to cloud migrations and infrastructure as code, I help companies ship faster, safer, and smarter.
 
-- ✅ **AWS Certified Cloud Practitioner**  
-- 💻 Freelance DevOps Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
-- ✍️ [Technical Writer & Educator on Medium](https://medium.com/@therahulyadav)
+- 🏢 COO @ OpsStation Technologies Pvt. Ltd.  
+- ✅ AWS Certified Cloud Practitioner  
+- 💼 Freelance Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
+- ✍️ DevOps Blogger on [Medium](https://medium.com/@therahulyadav)
 
 ---
 
@@ -38,7 +39,7 @@ My work focuses on transforming manual development and deployment lifecycles int
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠 Tools & Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -77,7 +78,7 @@ My work focuses on transforming manual development and deployment lifecycles int
 
 ---
 
-💬 _“Great DevOps is invisible — systems self-heal, deploy reliably, and scale without drama.”_  
-📌 **Open for freelance, consulting & DevOps engineering leadership roles**
+💡 _“Automation isn’t optional anymore — it’s essential. Let’s build systems that scale and heal themselves.”_  
+📌 **Open to freelance, consulting & strategic DevOps engagements**
 
 ---
