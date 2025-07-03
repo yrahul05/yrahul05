@@ -66,9 +66,6 @@ From architecting CI/CD pipelines to cloud migrations and infrastructure as code
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrahul05&theme=tokyonight" width="100%" alt="Rahul's Summary Cards" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yrahul05/yrahul05/main/assets/contributor-stats.png" width="400" alt="Contributor Stats" />
-</div>
 
 <p align="center">
   <b>💡 Clean code, clear pipelines, continuous delivery — backed by real contributions.</b>
