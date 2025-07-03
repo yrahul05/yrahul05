@@ -1,11 +1,11 @@
 <div align="center">
 
 # 👨‍💻 Rahul Yadav — DevOps Engineer | COO @ OpsStation  
-*Designing Scalable Cloud Architectures & Automating Success*
+*Architecting Scalable Cloud Solutions | Automating Everything*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav77/)
-[![Medium](https://img.shields.io/badge/-Read%20Articles%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
-[![Hire Me on Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
+[![Medium](https://img.shields.io/badge/-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therahulyadav)
+[![Upwork](https://img.shields.io/badge/-Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)
 
 </div>
 
@@ -13,15 +13,15 @@
 
 ## 👋 About Me
 
-Hi, I'm **Rahul Yadav**, a DevOps Engineer and the **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building reliable, scalable, and secure DevOps pipelines that empower teams to ship faster with confidence.
+Hi! I'm **Rahul Yadav**, a **DevOps Engineer** and **Chief Operating Officer at OpsStation Technologies Private Limited**. I specialize in building scalable, secure, and automated infrastructure using modern DevOps practices and cloud-native solutions.
 
-I blend deep cloud engineering knowledge with leadership to deliver high-impact infrastructure solutions for startups, enterprises, and global clients.
+With a strong focus on reliability, performance, and efficiency, I help businesses streamline their software delivery lifecycle and infrastructure operations.
 
-🌍 **Based in India, serving clients globally**  
-🏢 **COO at OpsStation Technologies Pvt. Ltd.**  
-💼 **Freelance Consultant on Upwork**  
-✅ **AWS Certified Cloud Practitioner**  
-🎯 **Focused on cloud automation, CI/CD, and infrastructure as code**
+- 🌐 Based in India — Working with global teams  
+- 🏢 **COO @ OpsStation Technologies Pvt. Ltd.**  
+- 💻 Freelancer & Consultant on [Upwork](https://www.upwork.com/freelancers/~0183ad8a41e8284283?mp_source=share)  
+- ✅ **AWS Certified Cloud Practitioner**  
+- ✍️ Technical Blogger on [Medium](https://medium.com/@therahulyadav)
 
 ---
 
@@ -36,29 +36,27 @@ I blend deep cloud engineering knowledge with leadership to deliver high-impact 
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=continuous-integration&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-1572B6?style=for-the-badge&logo=cloud&logoColor=white" />
 </div>
 
 ---
 
-## 🧰 Tools, Languages & Monitoring
+## 🛠 Tools & Technologies
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-2F5396?style=for-the-badge&logo=monitoring&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=continuous-integration&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yrahul05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
@@ -76,7 +74,7 @@ I blend deep cloud engineering knowledge with leadership to deliver high-impact 
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulyadav77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -86,7 +84,7 @@ I blend deep cloud engineering knowledge with leadership to deliver high-impact 
 
 ---
 
-🚀 **Let’s collaborate to architect, automate, and scale cloud success.**  
-🌟 _Open to consulting, freelance, and strategic DevOps leadership opportunities_
+🚀 _“Automation isn’t optional anymore—it's the standard. Let’s build resilient systems together.”_  
+🌟 **Open to freelance, consulting & strategic DevOps opportunities**
 
 ---
