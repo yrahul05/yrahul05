@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rahul Yadav  
-## Certified AWS Cloud & DevOps Engineer | 2+ Years Experience Automating, Securing & Scaling Production-Grade Cloud Infrastructure
+## Certified AWS Cloud & DevOps Engineer | 4+ Years Experience Automating, Securing & Scaling Production-Grade Cloud Infrastructure
 
 ---
 
@@ -7,7 +7,7 @@
 
 I architect, automate, and optimize cloud infrastructure that’s **fast to deploy**, **secure by design**, and **built to scale** — so your team ships confidently, sleeps soundly, and grows without limits.
 
-With 2+ years of hands-on DevOps experience, I help startups and global companies build resilient, production-grade systems powered by automation, security best practices, and cost-efficiency.
+With 4+ years of hands-on DevOps experience, I help startups and global companies build resilient, production-grade systems powered by automation, security best practices, and cost-efficiency.
 
 ---
 
