@@ -59,7 +59,7 @@ Message me to build **fast**, **secure**, and **future-ready** cloud infrastruct
 
 ### 📫 Connect with Me
 
-- GitHub: [github.com/devopswithrahul](https://github.com/yrahul05)  
+- GitHub: [github.com/yrahul05](https://github.com/yrahul05)  
 - LinkedIn: [linkedin.com/in/rahulyadavdevops](https://linkedin.com/in/rahulyadavdevops)  
 - Email: yrahul.it@gmail.com
 
