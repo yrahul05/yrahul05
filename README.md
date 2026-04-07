@@ -7,7 +7,11 @@ AWS • Kubernetes • Terraform • CI/CD
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&color=333333&center=true&vCenter=true&width=700&lines=Certified+AWS+Cloud+%26+DevOps+Engineer;4%2B+Years+Experience+%7C+20%2B+Projects;Scalable+%7C+Reliable+%7C+Production-Ready+Systems" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Certified+AWS+Cloud+%26+DevOps+Engineer;4%2B+Years+Experience+%7C+20%2B+Projects;Scalable+%7C+Reliable+%7C+Production-Ready+Systems" />
+
+</div>
 
 <br/><br/>
 
