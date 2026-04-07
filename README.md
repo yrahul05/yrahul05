@@ -1,9 +1,18 @@
 <div align="center">
 
-# Rahul Yadav
+<div align="center">
 
+<h1>Rahul Yadav</h1>
+
+<p>
 Cloud & DevOps Engineer ☁️  
-AWS • Kubernetes • Terraform • CI/CD  
+</p>
+
+<p>
+AWS • Kubernetes • Terraform • CI/CD
+</p>
+
+</div> 
 
 <br/>
 
