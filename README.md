@@ -1,78 +1,88 @@
-# 👋 Hi, I’m Rahul Yadav  
-## Certified AWS Cloud & DevOps Engineer | 2+ Years Experience Automating, Securing & Scaling Production-Grade Cloud Infrastructure
+<div align="center">
+
+# Rahul Yadav
+
+Cloud & DevOps Engineer ☁️  
+AWS • Kubernetes • Terraform • CI/CD
+
+<br/>
+
+<a href="mailto:yrahul.it@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-black?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/rahulyadavdevops">
+  <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-### About Me
+## About
 
-I architect, automate, and optimize cloud infrastructure that’s **fast to deploy**, **secure by design**, and **built to scale** — so your team ships confidently, sleeps soundly, and grows without limits.
+I build scalable, reliable, and cost-efficient cloud systems.
 
-With 2+ years of hands-on DevOps experience, I help startups and global companies build resilient, production-grade systems powered by automation, security best practices, and cost-efficiency.
-
----
-
-### What I Bring to the Table
-
-- 🚀 **Faster Releases:** Robust CI/CD pipelines with testing, rollback, and zero-downtime deployment strategies  
-- 💰 **Cost Optimization:** Smart cloud architecture & resource optimization to reduce your AWS bills  
-- 🔐 **Security-First Deployments:** IAM policies, TLS, KMS, secrets management, compliance by default  
-- 🧠 **Zero Downtime:** Resilient infrastructure with auto-healing, auto-scaling, and multi-AZ deployments  
-- 📊 **Monitoring & Alerting:** Proactive visibility using Prometheus, Grafana, ELK Stack & AWS CloudWatch  
-- 🤖 **Automation-First Approach:** Custom scripting (Golang), infrastructure-as-code, and seamless integrations
+- Zero downtime deployments  
+- Clean CI/CD pipelines  
+- Optimized AWS infrastructure  
 
 ---
 
-### Expanded AWS & DevOps Services I Provide
+## Tech Stack
 
-#### AWS Cloud Platforms & Services
-- **Compute:** EC2, Lambda, ECS, EKS, Auto Scaling Groups, Elastic Beanstalk  
-- **Storage & Databases:** S3, EFS, Glacier, RDS (MySQL, PostgreSQL, Aurora), DynamoDB  
-- **Networking & Security:** VPC, Route 53, Security Groups, NACLs, WAF, Shield, IAM, KMS  
-- **Monitoring & Logging:** CloudWatch, CloudTrail, AWS Config, GuardDuty, Inspector  
-- **Deployment & Management:** CloudFormation, AWS CDK, Systems Manager, Elastic Load Balancers  
-- **Analytics & AI:** AWS Athena, Glue, SageMaker (optional based on project scope)
+<div align="center">
 
-#### DevOps & Automation
-- **CI/CD Pipelines:** Jenkins, GitHub Actions, GitLab CI/CD, CircleCI  
-- **Infrastructure as Code:** Terraform (modular, reusable), Ansible (playbooks & roles)  
-- **Containers & Orchestration:** Docker (multi-stage builds, Compose), Kubernetes, Helm Charts  
-- **Monitoring & Alerting:** Prometheus, Grafana dashboards, ELK Stack, AWS CloudWatch Alarms  
-- **Security & Compliance:** Automated scans, secret management, CIS benchmarks, policy enforcement  
-- **Custom Automation:** Golang scripting for CLI tools, APIs, and workflow automation
+AWS • Docker • Kubernetes • Terraform  
+Jenkins • GitHub Actions • Linux • Bash • Python  
+
+</div>
 
 ---
 
-### Why Clients Choose Me
+## Certifications
 
-- 🔁 **Automation-First:** Eliminating manual steps and human error for reliable operations  
-- 📦 **Production-Ready:** Systems designed to scale, tested to perform under pressure  
-- 🔐 **Security By Default:** Every layer hardened and continuously monitored  
-- 📈 **Business-Aligned DevOps:** Solutions tailored to your goals — not just your tech stack  
-- 🛠️ **End-to-End Ownership:** From architecture & deployment to monitoring & optimization  
+<div align="center">
 
----
+### 🏆 AWS Certifications
 
-### Let’s Build Cloud Systems You Can Rely On  
-Message me to build **fast**, **secure**, and **future-ready** cloud infrastructure tailored for your business success.
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Cloud-Practitioner_badge.1b9b7c2a6d4f0e7e7c7f0a8d5c6f3a8c.png" width="120"/>
 
----
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Solutions-Architect-Associate_badge.1e8f6b3d6c4d7a5b9d8f7a6c5e4d3b2a.png" width="120"/>
 
-### 📫 Connect with Me
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Solutions-Architect-Professional_badge.6c5b4a3d2f1e0d9c8b7a6f5e4d3c2b1a.png" width="120"/>
 
-- GitHub: [github.com/yrahul05](https://github.com/yrahul05)  
-- LinkedIn: [linkedin.com/in/rahulyadavdevops](https://linkedin.com/in/rahulyadavdevops)  
-- Email: yrahul.it@gmail.com
+<br/>
 
----
+### 🎓 AWS Training Badges
 
-### ⚡ Skills at a Glance
+<img src="https://images.credly.com/images/aws-partner-security.png" width="110"/>
 
-| Cloud Platforms | CI/CD | IaC & Automation | Containers & Orchestration | Monitoring & Logging | Security & Compliance | Programming |
-|-----------------|-------|------------------|----------------------------|---------------------|----------------------|-------------|
-| AWS (EC2, S3, Lambda, RDS, VPC, IAM, KMS, CloudWatch, etc.) | Jenkins, GitHub Actions, GitLab CI | Terraform, Ansible | Docker, Kubernetes, Helm | Prometheus, Grafana, ELK, CloudWatch | IAM, KMS, TLS, CIS Benchmarks, Secrets Mgmt | Golang, Bash, Python |
+<img src="https://images.credly.com/images/aws-technical-accredited.png" width="110"/>
+
+<img src="https://images.credly.com/images/aws-sales-accreditation.png" width="110"/>
+
+</div>
 
 ---
 
-# 🚀 Your DevOps, Done Right? 
-**Let’s build secure, automated, and production-ready infrastructure — together!**
+## Work Highlights
 
+- Kubernetes deployment with auto scaling  
+- CI/CD pipelines with rollback  
+- AWS cost optimization (~30% saving)  
+
+---
+
+## Hire Me
+
+If you need DevOps, cloud setup, or scaling help:
+
+📩 yrahul.it@gmail.com  
+
+---
+
+> Simple. Reliable. Scalable.
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
