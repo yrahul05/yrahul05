@@ -1,86 +1,95 @@
-<!-- INTRO WITH ANIMATION -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&color=333333&center=true&vCenter=true&width=800&lines=Certified+AWS+Cloud+%26+DevOps+Engineer;4%2B+Years+Experience+%7C+20%2B+Projects;Building+Scalable+%26+Reliable+Cloud+Systems" />
+# Rahul Yadav
+
+Cloud & DevOps Engineer ☁️  
+AWS • Kubernetes • Terraform • CI/CD  
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&color=333333&center=true&vCenter=true&width=700&lines=Certified+AWS+Cloud+%26+DevOps+Engineer;4%2B+Years+Experience+%7C+20%2B+Projects;Scalable+%7C+Reliable+%7C+Production-Ready+Systems" />
+
+<br/><br/>
+
+<a href="mailto:yrahul.it@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-black?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/rahulyadavdevops">
+  <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-Certified AWS Cloud & DevOps Engineer with 4+ years of experience, delivering 20+ cloud and DevOps projects across AWS, GCP, Azure, DigitalOcean, and Hetzner.
+Certified AWS Cloud & DevOps Engineer with 4+ years of experience delivering 20+ projects across AWS, GCP, Azure, DigitalOcean, and Hetzner.
 
 I help businesses:
 - Automate deployments  
 - Reduce downtime  
 - Optimize cloud costs  
 
-Focused on building systems that are stable, scalable, and production-ready.
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,linux,bash,python,go,grafana,prometheus,mysql,redis,nginx" />
+
+</div>
 
 ---
 
-## Cloud Platforms
+## Certifications
 
-**AWS**  
-EC2 • S3 • RDS • VPC • IAM • EKS • ECS • CloudWatch • ELB • Route 53  
+<div align="center">
 
-**Google Cloud (GCP)**  
-Compute Engine • Cloud Storage • Cloud SQL • GKE • VPC  
+### 🏆 AWS Certifications
 
-**Microsoft Azure**  
-Virtual Machines • Blob Storage • Azure SQL • AKS • Virtual Network  
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Cloud-Practitioner_badge.1b9b7c2a6d4f0e7e7c7f0a8d5c6f3a8c.png" width="110"/>
 
-**Other Platforms**  
-DigitalOcean • Hetzner  
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Solutions-Architect-Associate_badge.1e8f6b3d6c4d7a5b9d8f7a6c5e4d3b2a.png" width="110"/>
 
----
+<img src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Solutions-Architect-Professional_badge.6c5b4a3d2f1e0d9c8b7a6f5e4d3c2b1a.png" width="110"/>
 
-## DevOps & Tools
+<br/>
 
-**CI/CD**  
-Jenkins • GitHub Actions • GitLab CI/CD  
+### 🎓 AWS Training Badges
 
-**Infrastructure as Code**  
-Terraform • Ansible  
+<img src="https://images.credly.com/images/aws-partner-security.png" width="100"/>
 
-**Containers & Orchestration**  
-Docker • Kubernetes (EKS)  
+<img src="https://images.credly.com/images/aws-technical-accredited.png" width="100"/>
 
-**Monitoring & Logging**  
-CloudWatch • Prometheus • Grafana  
+<img src="https://images.credly.com/images/aws-sales-accreditation.png" width="100"/>
 
-**Security**  
-IAM • KMS • SSL/TLS  
-
-**Cost Optimization**  
-AWS Cost Explorer • Resource Optimization  
+</div>
 
 ---
 
-## Cloud Cost & Optimization
+## What I Do
 
-I help clients:
-
-- Reduce cloud bills with optimized architecture  
-- Improve cost visibility and control  
-- Access available cloud credits  
-- Build efficient and scalable systems  
+- CI/CD pipelines (Jenkins, GitHub Actions, GitLab)  
+- AWS / GCP / Azure infrastructure  
+- Docker & Kubernetes deployments  
+- Terraform & automation  
+- Monitoring (Prometheus, Grafana)  
+- Cost optimization  
 
 ---
 
 ## Availability
 
-- 40+ hours per week  
+- 40+ hours / week  
 - Flexible: PST • EST • GMT • IST  
-- Open to short-term and long-term work  
+- Open to freelance & long-term  
 
 ---
 
-## Let’s Work Together
-
-If you need help with DevOps or cloud infrastructure:
+## Hire Me
 
 📩 yrahul.it@gmail.com  
 
@@ -88,7 +97,7 @@ If you need help with DevOps or cloud infrastructure:
 
 <div align="center">
 
-<i>Reliable systems. Scalable architecture. Real results.</i>
+<i>Simple systems break. Well-designed systems scale.</i>
 
 </div>
 
